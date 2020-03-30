@@ -1,8 +1,3 @@
-/*********
-  Rui Santos
-  Complete project details at http://randomnerdtutorials.com  
-*********/
-
 int pin = 2;
 
 void setup() {
